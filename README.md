@@ -23,4 +23,8 @@ Planned:
 
 📸📱 Screenshots
 
+<img src="https://github.com/p-7on/ScanDoc_iOSApp/blob/f038e26c2aa6ca23e0019249f361a92fe60b3adf/Screenshots/visionkit_scanner-portrait.png?raw=true" width="250" /> <img src="https://github.com/p-7on/ScanDoc_iOSApp/blob/f038e26c2aa6ca23e0019249f361a92fe60b3adf/Screenshots/filesview-portrait.png?raw=true" width="250" /> <img src="https://github.com/p-7on/ScanDoc_iOSApp/blob/f038e26c2aa6ca23e0019249f361a92fe60b3adf/Screenshots/documentview-portrait.png?raw=true" width="250" /> 
+
+<img src="https://github.com/p-7on/ScanDoc_iOSApp/blob/f038e26c2aa6ca23e0019249f361a92fe60b3adf/Screenshots/settingsview-portrait.png?raw=true" width="250" />
+
 Coming soon...
