@@ -8,7 +8,8 @@ ScanDoc is a work-in-progress iOS application designed for scanning, editing, or
 - Crop, edit, and enhance scanned documents
 - Built-in file manager to sort and store documents
 - Send documents via email or system share sheet
-Planned:
+
+🔜 Planned:
 - AirDrop support (iOS-to-iOS)
 - Cross-platform transfer using Firebase and web download interface
 
